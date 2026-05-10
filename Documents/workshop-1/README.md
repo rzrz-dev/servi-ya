@@ -6,6 +6,12 @@
 
 ---
 
+## Sub-Documents provided
+
+1. Requirements - Pages 2 to 8
+2. User Stories - Pages 9 to 41
+3. User Story Mapping - Page 42
+
 ## Table of Contents
 
 1. [Functional Requirements](#functional-requirements)
@@ -44,3 +50,4 @@
    - [Reports](#reports-1) — HU-055 to HU-060, HU-071, HU-073
    - [Notifications](#notifications-1) — HU-061 to HU-063
    - [Administration](#administration-1) — HU-064 to HU-070, HU-074
+  
